@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oliver Aka Eraxter in Online communities</h1>
-<h3 align="center">I am a fullstack developer from Denmark Repos on my profile mostly relate to School projects</h3>
+<h3 align="center">I am a fullstack developer from Denmark - Repos on my profile mostly relate to School projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EraxterCodes&label=Profile%20views&color=0e75b6&style=flat" alt="EraxterCodes" /> </p>
 
