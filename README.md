@@ -9,7 +9,7 @@
 
 - 🏢 I'm currently Working at Novo Nordisk
 
-- 📚 I’m learning **React.js, DevOps , Working & with AWS services**
+- 📚 I’m learning **React.js, DevOps & working  with AWS services**
 
 - 📫 How to reach me **ojoe@itu.dk **
 
