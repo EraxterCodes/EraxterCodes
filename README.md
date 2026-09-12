@@ -11,8 +11,6 @@
 
 - 🛠️ Focused on platform engineering: Python, TypeScript/React, Docker, Kubernetes, AWS
 
-- 🤖 Recently built a **Claude Code** integration that auto-generates compliance documentation for platform users in a regulated environment
-
 - 📚 Always picking up whatever the problem needs next — lately that's meant going deeper on agentic AI tooling
 
 - 🎮 Also write a fair amount of Lua for WoW addon development in my spare time
